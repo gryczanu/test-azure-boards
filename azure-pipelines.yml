@@ -16,7 +16,7 @@ steps:
     connectedServiceNameSendGrid: 'Azure devops'
     project: '9269bacf-bdd7-4ca2-9c23-eb06f205ff53'
     queryType: 'Shared'
-    query: '677a4766-2bd1-4cbc-bd37-18c36f389cbd'
+    query: '45754041-ac29-4a4a-9f83-3a914dee11bf'
     sendIfEmpty: true
     subject: 'Your query results'
     emailAddresses: 'urszulasype@gmail.com'
